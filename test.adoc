@@ -11,3 +11,5 @@ The style can be any one of the admonition labels:
 * CAUTION
 * IMPORTANT
 ====
+This is an example of a _listing block_.
+The content inside is displayed as <pre> text.
