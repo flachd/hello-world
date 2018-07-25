@@ -12,7 +12,7 @@ The style can be any one of the admonition labels:
 * IMPORTANT
 ====
 This is an example of a _listing block_.
-The content inside is displayed as <pre> text.
+The content inside is displayed as <pre> text
 
 * grandparent list item
 +
