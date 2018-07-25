@@ -82,3 +82,5 @@ performance, portability.
 
 ...
 |===
+[NOTE]
+This is an example note.
