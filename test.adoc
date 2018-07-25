@@ -13,3 +13,12 @@ The style can be any one of the admonition labels:
 ====
 This is an example of a _listing block_.
 The content inside is displayed as <pre> text.
+
+* grandparent list item
++
+--
+** parent list item
+*** child list item
+--
++
+paragraph attached to grandparent list item
