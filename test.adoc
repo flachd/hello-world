@@ -66,3 +66,19 @@ Asciidoctor.convert_file 'mysample.adoc'  # <2>
 
 [quote]
 Never do today what you can put off 'til tomorrow.
+
+|===
+|Name |Group |Description
+
+|Firefox
+|Web Browser
+|Mozilla Firefox is an open-source web browser.
+It's designed for standards compliance,
+performance, portability.
+
+|Ruby
+|Programming Language
+|A programmer's best friend.
+
+...
+|===
