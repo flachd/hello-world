@@ -22,3 +22,7 @@ The content inside is displayed as <pre> text
 --
 +
 paragraph attached to grandparent list item
+
+:hide-uri-scheme:
+
+https://asciidoctor.org
