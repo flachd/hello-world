@@ -63,3 +63,6 @@ Asciidoctor.convert_file 'mysample.adoc'  # <2>
 ----
 <1> Imports the library
 <2> Reads, parses, and converts the file
+
+[quote]
+Never do today what you can put off 'til tomorrow.
