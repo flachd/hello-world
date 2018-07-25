@@ -1,0 +1,13 @@
+[NOTE]
+====
+This is an example of an admonition block.
+
+Unlike an admonition paragraph, it may contain any AsciiDoc content.
+The style can be any one of the admonition labels:
+
+* NOTE
+* TIP
+* WARNING
+* CAUTION
+* IMPORTANT
+====
